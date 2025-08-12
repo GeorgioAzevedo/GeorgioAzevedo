@@ -68,6 +68,9 @@ Me chamo Georgio Azevedo, tenho 17 anos e moro em Campina Grande-PB. Atualmente,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br/>
+<br/>
+
 📊Estatísticas:
 
 <p align="left">
