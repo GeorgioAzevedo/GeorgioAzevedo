@@ -1,8 +1,8 @@
 💻 Georgio Azevedo
 
-Desenvolvedor FullStack
+FullStack Developer
 
-Me chamo Georgio Azevedo, tenho 17 anos e moro em Campina Grande-PB. Atualmente, curso Sistemas de Informação na UNIFACISA. Sou apaixonado por tecnologia e estou sempre em busca de ampliar meus conhecimentos e habilidades na área. Gosto de compartilhar o que aprendo para contribuir com a comunidade e crescer profissionalmente.
+Hi! My name is Georgio Azevedo, I’m 17 years old and from Campina Grande, Brazil. I’m currently studying Information Systems at UNIFACISA. Passionate about technology, always learning and sharing knowledge to grow and contribute to the community.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.georgioaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgioazevedo/)
