@@ -2,7 +2,7 @@
 
 FullStack Developer
 
-Hi! My name is Georgio Azevedo, I’m 17 years old and from Campina Grande, Brazil. I’m currently studying Information Systems at UNIFACISA. Passionate about technology, always learning and sharing knowledge to grow and contribute to the community.
+Hi! My name is Georgio Azevedo, I’m 18 years old and from Campina Grande, Brazil. I’m currently studying Information Systems at UNIFACISA. Passionate about technology, always learning and sharing knowledge to grow and contribute to the community.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.georgioaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgioazevedo/)
@@ -71,13 +71,6 @@ Hi! My name is Georgio Azevedo, I’m 17 years old and from Campina Grande, Braz
 <br/>
 <br/>
 
-📊Estatísticas:
-
-<p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=GeorgioAzevedo&show_icons=true&theme=github_dark" alt="GeorgioAzevedo's stats"/>
-</p>
-
-<img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
