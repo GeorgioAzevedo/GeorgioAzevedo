@@ -60,4 +60,3 @@ Hi! My name is Georgio Azevedo, I’m 18 years old and from Campina Grande, Braz
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <br/>
-<br/
